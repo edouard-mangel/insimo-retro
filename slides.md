@@ -12,13 +12,13 @@ keywords: "slidev, slides, presentation, vue, vuejs, insimo-retro, insimo, retro
 exportFilename: "Insimo-retro.pdf"
 
 layout: cover
-background: "/background-1.png"
+class: sc_bg
 
 defaults:
   transition: slide-left|slide-right
 ---
 
-## Prestation de services de La Crafterie Tech pour InSimo
+## Refonte du hub de simulateurs par La Crafterie Tech
 <br>
 
 # Rétrospective
@@ -33,6 +33,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 transition: fade-out
+class: sc_bg
 ---
 
 # Objectifs de la prestation 
@@ -51,7 +52,7 @@ Réalisation d'une application web de hub pour les simulateurs de InSimo
 
 ---
 transition: slide-up
-level: 2
+class: sc_bg
 ---
 
 # Principales réalisations 
@@ -59,10 +60,14 @@ level: 2
 ## Application front-end
 - Application web de hub pour les simulateurs de InSimo
 - Intégration de plusieurs simulateurs dans une seule application
-- 
+
+## Intégration à Electron pour packager une application desktop
+- Possibilité d'intégrer le simulateur Sim and Care 
+- Possibilité d'intégrer le simulateur Robotis  
 
 ---
 layout: default
+class: ro_bg
 ---
 
 # Contexte initial 
@@ -71,6 +76,7 @@ Point de départ, attentes du client
 
 ---
 layout: default
+class: ro_bg
 ---
 
 # Contributions majeures : 
@@ -90,6 +96,7 @@ Par La Crafterie Tech
 
 ---
 layout: default
+class: dis_bg
 ---
 
 # Résultats mesurables 
@@ -103,23 +110,22 @@ KPIs, indicateurs de performance, résultats quantitatifs et qualitatifs
 
 ---
 layout: default
+class: dis_bg
 ---
 
 # Apprentissages & recommandations 
 Bilan de la prestation, ce que nous avons appris, ce qui a bien fonctionné, ce qui pourrait être amélioré
 
 
-
 ce que tu as appris, ce que tu proposes pour la suite
-
-
 
 
 
 ---
 layout: end
+class: sc_bg
 ---
 
-# Merci pour cette opportunité 
+# Merci pour cette opportunité !
 
-## Merci à toute l'équipe d'InSimo pour cette collaboration enrichissante!
+## Merci à toute l'équipe d'InSimo pour cette collaboration enrichissante
