@@ -1,6 +1,6 @@
 ---
 # doc pour le config de cet encart : https://sli.dev/custom/#headmatter
-theme: seriph
+theme: default
 addons: []
 # title of your slide, will inferred from the first header if not specified
 title: "Insimo-retro"
@@ -10,7 +10,7 @@ author: Edouard MANGEL
 # keywords field for exported PDF, comma-delimited
 keywords: "slidev, slides, presentation, vue, vuejs, insimo-retro, insimo, retro"
 exportFilename: "Insimo-retro.pdf"
-
+colorSchema: "dark"
 layout: cover
 class: sc_bg
 
