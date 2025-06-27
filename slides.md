@@ -145,15 +145,12 @@ KPIs, indicateurs de performance, résultats quantitatifs et qualitatifs
 ## Délais
 <v-clicks>
 
-
 ✅ Anticipation des risques
 
 ✅ Livraison d'une version fonctionnelle pour chaque simulateur pour le salon. 
 
 ✅ Respect des délais,
 </v-clicks>
-
-
 <v-click>
 
 ## Conformité avec l'attendu 
@@ -167,6 +164,18 @@ KPIs, indicateurs de performance, résultats quantitatifs et qualitatifs
 
 </v-clicks>
 
+---
+layout: default
+class: dis_bg
+---
+
+# 📊 Résultats mesurables 
+
+<br> 
+
+## Budget 
+
+### 69% du budget initialement prévu
 
 ---
 layout: default
