@@ -1,6 +1,6 @@
 ---
 # doc pour le config de cet encart : https://sli.dev/custom/#headmatter
-theme: default
+theme: seriph
 addons: []
 # title of your slide, will inferred from the first header if not specified
 title: "Insimo-retro"
@@ -145,9 +145,11 @@ KPIs, indicateurs de performance, résultats quantitatifs et qualitatifs
 <v-clicks>
 
 
-- Anticipation des risques, approche incrémentale et itérative,
-- Compromis sur les fonctionnalités pour respecter les délais,
-- Livraison d'une version fonctionnelle pour chaque simulateur pour le salon. 
+✅ Anticipation des risques
+
+✅ Livraison d'une version fonctionnelle pour chaque simulateur pour le salon. 
+
+✅ Respect des délais,
 </v-clicks>
 
 
@@ -158,8 +160,9 @@ KPIs, indicateurs de performance, résultats quantitatifs et qualitatifs
 </v-click>
 <v-clicks>
 
-- Prise en compte immédiate des retours de l'équipe InSimo,
-- Aucun bug détecté pour les fonctionnalités livrées,
+✅ Prise en compte immédiate des retours de l'équipe InSimo,
+
+✅ Aucun bug détecté pour les fonctionnalités livrées 💪
 
 </v-clicks>
 
@@ -173,29 +176,56 @@ class: dis_bg
 Bilan de la prestation
 
 ## Ce qui a bien fonctionné
-
 <v-clicks>
 
-- Respect des délais,
-- Application front-end fonctionnelle et maintenable,
-- Tests automatisés couvrant les principales fonctionnalités,
-- Collaboration efficace avec l'équipe InSimo,
-- Passation de connaissances réussie.
+- Respect des délais
+- Application front-end fonctionnelle et maintenable
+- Tests automatisés couvrant les principales fonctionnalités
+- Collaboration efficace avec l'équipe InSimo
+- Passation de connaissances réussie
 </v-clicks>
+
 <v-click>
 
 ## Ce qui pourrait être amélioré
+</v-click>
+<v-clicks>
 
 - Scope flou en termes de répartition des rôles et responsabilités.
+- Difficulté à estimer les tâches en raison de la complexité du projet.
+- Un contrat d'interface clair avec le simulateur Unity aurait permis de gérer les interactions entre l'application front-end et les simulateurs de manière plus sereine
 
-</v-click>
+</v-clicks>
 
+
+---
+layout: default
+class: dis_bg
+---
+
+# Perspectives d'évolution
+
+
+## Prochaines étapes
+<br>
+<v-clicks>
+
+- Gestion des profils utilisateurs pour avoir un parcours de suivi personnalisé
+- Développement de pages d'administration pour le suivi d'exécution des exercices 
+- Intégration de nouveaux simulateurs, ou extension à Display
+- Système de gamification pour rendre l'expérience plus engageante 
+  - Badges pour récompenser les utilisateurs
+  - Système de points pour chaque exercice réalisé
+  - Défis à relever pour débloquer des fonctionnalités ou des contenus supplémentaires
+  - Partage sur les réseaux sociaux pour augmenter la visibilité
+
+- Leaderboard pour encourager la compétition entre les utilisateurs
+</v-clicks>
 
 ---
 layout: end
 class: sc_bg
+zoom: 2
 ---
 
-# Merci pour cette opportunité !
-
-## Merci à toute l'équipe d'InSimo pour cette collaboration enrichissante
+# Merci pour cette collaboration !
