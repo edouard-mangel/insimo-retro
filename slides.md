@@ -13,6 +13,7 @@ exportFilename: "Insimo-retro.pdf"
 colorSchema: "dark"
 layout: cover
 class: sc_bg
+favicon: https://www.insimo.com/wp-content/uploads/2013/12/fav.png
 
 defaults:
   transition: slide-left|slide-right
