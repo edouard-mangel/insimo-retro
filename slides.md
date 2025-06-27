@@ -52,7 +52,6 @@ Le hub actuel n'est plus maintenable et nécessite une refonte pour intégrer pl
 </v-clicks>
 
 
-
 ---
 class: ro_bg
 layout: default
@@ -106,7 +105,7 @@ Edouard MANGEL, Thomas Stocker, Marc Bouvier et certains membres du collectif Yt
 
 
 ---
-class: sc_bg
+class: ro_bg
 ---
 
 # 🛠️ Principales réalisations 
@@ -139,21 +138,31 @@ layout: default
 class: dis_bg
 ---
 
-# Résultats mesurables 
+# 📊 Résultats mesurables 
 KPIs, indicateurs de performance, résultats quantitatifs et qualitatifs
 
 ## Délais
+<v-clicks>
+
 
 - Anticipation des risques, approche incrémentale et itérative,
 - Compromis sur les fonctionnalités pour respecter les délais,
 - Livraison d'une version fonctionnelle pour chaque simulateur pour le salon. 
+</v-clicks>
+
+
+<v-click>
 
 ## Conformité avec l'attendu 
+
+</v-click>
+<v-clicks>
 
 - Prise en compte immédiate des retours de l'équipe InSimo,
 - Aucun bug détecté pour les fonctionnalités livrées,
 
-## Autonomie 
+</v-clicks>
+
 
 ---
 layout: default
@@ -161,11 +170,25 @@ class: dis_bg
 ---
 
 # Apprentissages & recommandations 
-Bilan de la prestation, ce que nous avons appris, ce qui a bien fonctionné, ce qui pourrait être amélioré
+Bilan de la prestation
 
+## Ce qui a bien fonctionné
 
-ce que tu as appris, ce que tu proposes pour la suite
+<v-clicks>
 
+- Respect des délais,
+- Application front-end fonctionnelle et maintenable,
+- Tests automatisés couvrant les principales fonctionnalités,
+- Collaboration efficace avec l'équipe InSimo,
+- Passation de connaissances réussie.
+</v-clicks>
+<v-click>
+
+## Ce qui pourrait être amélioré
+
+- Scope flou en termes de répartition des rôles et responsabilités.
+
+</v-click>
 
 
 ---
